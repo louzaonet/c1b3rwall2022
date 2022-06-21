@@ -4,7 +4,7 @@ int main()
 {
     char str [50];
     gets(str)
-    return 0
+    return 0;
 }
 
-// Added to make devskin check code.
+// Added to make devskin check
