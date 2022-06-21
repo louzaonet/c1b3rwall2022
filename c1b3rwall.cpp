@@ -6,3 +6,5 @@ int main()
     gets(str)
     return 0
 }
+
+// Added to make devskin check code.
