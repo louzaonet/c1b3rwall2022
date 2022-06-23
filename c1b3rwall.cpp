@@ -3,7 +3,7 @@
 int main()
 {
     char str [50];
-    fgets(str;
+    gets(str)
     return 0;
 }
 

@@ -15,3 +15,9 @@ Carpeta Overflow:
 - overflow2.cpp no da ningún error.
 
 Carpeta Charla contiene las diapositivas de la charla en formato PPTX y PDF.
+
+Los resultados del análisis online de cppcheck se pueden encontrar en:
+
+- https://softacheck.com/app/repository/louzaonet/c1b3rwall2022/issues
+
+- https://app.codacy.com/gh/louzaonet/c1b3rwall2022/issues?&filters=W3siaWQiOiJMYW5ndWFnZSIsInZhbHVlcyI6W119LHsiaWQiOiJDYXRlZ29yeSIsInZhbHVlcyI6W119LHsiaWQiOiJMZXZlbCIsInZhbHVlcyI6W119LHsiaWQiOiJQYXR0ZXJuIiwidmFsdWVzIjpbXX0seyJpZCI6IkF1dGhvciIsInZhbHVlcyI6W119XQ==
